@@ -12,7 +12,7 @@ namespace Practica_Metodos
 
             Console.WriteLine(divideNumeros(18, 7));
         }
-        /*
+        
         //creacion de mi propio metodo
 
         static void mensajeEnPantalla()
@@ -44,7 +44,7 @@ namespace Practica_Metodos
         {
             return num1 / num2;
         }
-        */
+        
         //forma de declarar metodos que son de una sola linea de codigo
         static double divideNumerosC(double num1, int num2) => num1 / num2;
     }
