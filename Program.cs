@@ -87,6 +87,8 @@ namespace Practica_Metodos
 
         static int Suma(int operador1, int operador2)=>operador1 + operador2;
 
+        static double Suma(double operador1, double operador2, double operador3)=>operador1+operador2+ operador3;
+
         static int Suma(int numero1, int numero2, int numero3) => numero1 + numero2;
 
         static double Suma(int numero1, double numero2) => numero1 + numero2;
